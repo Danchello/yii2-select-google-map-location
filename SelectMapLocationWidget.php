@@ -1,5 +1,5 @@
 <?php
-namespace kalyabin\maplocation;
+namespace Danchello\maplocation;
 
 use Yii;
 use yii\base\Model;

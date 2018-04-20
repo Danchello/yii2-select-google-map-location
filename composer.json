@@ -1,5 +1,5 @@
 {
-    "name": "kalyabin/yii2-select-google-map-location",
+    "name": "Danchello/yii2-select-google-map-location",
     "description": "Yii2 widget to select location at map and choose map coordinates",
     "type": "package",
     "keywords": [
@@ -22,7 +22,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "kalyabin\\maplocation\\": ""
+            "Danchello\\maplocation\\": ""
         }
     },
     "minimum-stability": "stable",
